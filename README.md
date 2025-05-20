@@ -134,6 +134,3 @@ When a crash report is submitted via 911 call, highway sensors, or telematics, t
 - **Urban Planning**: Use severity predictions to identify high-risk zones  
 - **Connected Vehicles**: Embedded predictions in in-vehicle or fleet systems  
 
----
-
-## Project Structure
